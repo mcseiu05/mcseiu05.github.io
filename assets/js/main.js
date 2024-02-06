@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
         theme: 'light',
         breakpoint: 960,
         position: 'right',
-        phoneBtn: '18009997788',
+        phoneBtn: '+8801716116059',
         locationBtn: 'https://www.google.com/maps'
       });
 

@@ -389,11 +389,13 @@ a.contact-btn:hover{
 }
 .wlc-author-1 {
     position: relative;
-    right   : 5%;
+    right   : 1%;
     width   : 35%;
     bottom  : 0;
     height  : 100%;
     z-index : -1;
+text-align: center;
+	margin-top: 0px;
 }
 
 .author-1 img {

@@ -12,21 +12,23 @@
 	  }
 	  
 	  .image-container {
-         
-	
-		  
+            padding: 20px;
+			
         }
 
-          
+          .circular-image {
+			  
+            border-radius: 20%;
+            overflow: hidden;
+			border: 3px solid white;
+			box-shadow: 1 4px 8px rgba(0, 0, 0, 0.5);
+			margin-bottom: 200px; 
+        }
 
-        .image-container img {
-            width: 50%;
-            height: 50%;
-           
-	border-radius: 2%;
-            
-	border: 3px solid white;
-	box-shadow: 1 4px 8px rgba(0, 0, 0, 0.5);
+        .circular-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
 						
         }
 		.side-icon ul li a

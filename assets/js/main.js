@@ -255,7 +255,7 @@ jQuery(document).ready(function($) {
     stickyNav();
 
     $('#circle1').circleProgress({
-      value: 0.6,
+      value: 0.8,
       fill: {
         color: '#08d665'
       },
@@ -266,7 +266,7 @@ jQuery(document).ready(function($) {
 
 
     $('#circle2').circleProgress({
-      value: 0.7,
+      value: 0.9,
       fill: {
         color: '#08d665'
       },
@@ -277,7 +277,7 @@ jQuery(document).ready(function($) {
 
 
     $('#circle3').circleProgress({
-      value: 0.3,
+      value: 0.4,
       fill: {
         color: '#08d665'
       },

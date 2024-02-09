@@ -1,44 +1,61 @@
-/*
-Template Name:
-Version:1.0
-*/
+     p{text-align: left;}
 
+	 .intro {
+		  margin-left: 0%;
+		  margin-right: 15px; 
+	  
+	  }
+	  
+	  .logo_h{
+		border: 0.5px solid white;  
+		  
+	  }
+	  
+	  .image-container {
+            padding: 20px;
+			
+        }
 
+          .circular-image {
+			  
+            border-radius: 20%;
+            overflow: hidden;
+			border: 3px solid white;
+			box-shadow: 1 4px 8px rgba(0, 0, 0, 0.5);
+			margin-bottom: 200px; 
+        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        .circular-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+						
+        }
+		.side-icon ul li a
+		{
+				width: 36px;
+				height: 36px;
+						
+		}
+		.skill-box p span{
+			color: #33FF77; 
+			margin-right: 5px;
+		}
+		
+		.space-c{
+			margin-top: 50px;
+		}
+		.section-padding{
+			margin-bottom: -10px;
+		}
+		.side-social {
+		 text-align: center;
+		}		
+		.side-social p {
+		display: inline-block;
+		margin-bottom: 5%;
+		margin-top: 5%;
+		}
+		.margin-t{
+			margin-top: -150px;
+		}

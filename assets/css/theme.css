@@ -388,7 +388,7 @@ a.contact-btn:hover{
     margin:40px 0;
 }
 .wlc-author-1 {
-    position: relative;
+    position: absolute;
     right   : 1%;
     width   : 35%;
     bottom  : 0;

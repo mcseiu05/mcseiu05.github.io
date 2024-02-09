@@ -23,6 +23,8 @@
 			border: 3px solid white;
 			box-shadow: 1 4px 8px rgba(0, 0, 0, 0.5);
 
+		  margin-top: -100px;
+
         }
 
         .circular-image img {
